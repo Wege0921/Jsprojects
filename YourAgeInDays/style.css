@@ -1,0 +1,18 @@
+.main {
+    margin: 0 auto;
+    text-align: center;
+    width: 75%;
+}
+.container1{
+    display: flex;
+    border: 1px solid black;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+}
+.container1 div{
+    display: flex;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 5px;
+}   
